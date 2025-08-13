@@ -1,9 +1,5 @@
 ### ArduinoStick v2 — Open‑source PixelStick
 
-> PT: Varredura de imagem com duas fitas WS2812 intercaladas, lendo BMPs do SD e exibindo via POV.
->
-> EN: POV image painter using two interleaved WS2812 strips, reading 24‑bit BMPs from microSD.
-
 ## Português
 
 ### Visão geral
@@ -175,5 +171,6 @@ On startup, LEDs briefly indicate the current index and a short blue “counter�
 ---
 
 Made with `FastLED`, `SD`, `SPI`, and `EEPROM`. Hardware pinout assumes Arduino UNO/Nano SPI: MOSI 11, MISO 12, SCK 13, SD CS 10, LED data 7.
+
 
 
